@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[9141],{66388:e=>{e.exports=JSON.parse('{"title":"Pricing","slug":"/category/pricing","permalink":"/fr/docs/category/pricing","navigation":{"previous":{"title":"Payment","permalink":"/fr/docs/products/payment"},"next":{"title":"Overview","permalink":"/fr/docs/pricing/overview"}}}')}}]);

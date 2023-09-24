@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[9075],{52413:e=>{e.exports=JSON.parse('{"title":"Providers","slug":"/category/providers","permalink":"/docs/category/providers","navigation":{"previous":{"title":"Adapter","permalink":"/docs/permission/adapter"},"next":{"title":"Overview","permalink":"/docs/provider/overview"}}}')}}]);

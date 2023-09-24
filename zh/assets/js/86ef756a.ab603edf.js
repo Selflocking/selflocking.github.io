@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[878],{75591:e=>{e.exports=JSON.parse('{"title":"C#","slug":"/category/csharp","permalink":"/zh/docs/category/csharp","navigation":{"previous":{"title":"Envoy","permalink":"/zh/docs/integration/C++/Envoy"},"next":{"title":"Unity","permalink":"/zh/docs/integration/CSharp/Unity"}}}')}}]);

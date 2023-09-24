@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[1436],{59920:s=>{s.exports=JSON.parse('{"label":"Casdoor","permalink":"/ru/blog/tags/casdoor","allTagsPath":"/ru/blog/tags","count":1}')}}]);

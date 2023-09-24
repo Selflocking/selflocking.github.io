@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[9108],{25361:e=>{e.exports=JSON.parse('{"title":"Tokens","slug":"/category/tokens","permalink":"/ru/docs/category/tokens","navigation":{"previous":{"title":"Keycloak","permalink":"/ru/docs/syncer/Keycloak"},"next":{"title":"Overview","permalink":"/ru/docs/token/overview"}}}')}}]);

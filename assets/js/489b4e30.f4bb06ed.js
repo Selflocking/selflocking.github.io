@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[517],{41113:e=>{e.exports=JSON.parse('{"title":"Web3","slug":"/category/web3","permalink":"/docs/category/web3","navigation":{"previous":{"title":"Geetest","permalink":"/docs/provider/captcha/geetest"},"next":{"title":"Web3-Onboard","permalink":"/docs/provider/web3/web3onboard"}}}')}}]);

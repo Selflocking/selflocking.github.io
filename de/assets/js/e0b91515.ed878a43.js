@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[8543],{608:e=>{e.exports=JSON.parse('{"title":"Syncer","slug":"/category/syncer","permalink":"/de/docs/category/syncer","navigation":{"previous":{"title":"Permissions","permalink":"/de/docs/user/permissions"},"next":{"title":"Overview","permalink":"/de/docs/syncer/overview"}}}')}}]);

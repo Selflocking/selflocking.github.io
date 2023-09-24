@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Casdoor · An Open Source UI-first Identity Access Management (IAM) / Single-Sign-On (SSO) platform supporting OAuth 2.0, OIDC, SAML and CAS</ShortName>
+  <Description>Search Casdoor · An Open Source UI-first Identity Access Management (IAM) / Single-Sign-On (SSO) platform supporting OAuth 2.0, OIDC, SAML and CAS</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16" type="image/x-icon">https://casdoor.github.io/ja/img/favicon.png</Image>
+  <Url type="text/html" method="get" template="https://casdoor.github.io/ja/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://casdoor.github.io/ja/opensearch.xml" />
+  <moz:SearchForm>https://casdoor.github.io/ja/</moz:SearchForm>
+</OpenSearchDescription>

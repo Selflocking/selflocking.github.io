@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[9075],{69548:e=>{e.exports=JSON.parse('{"title":"Users","slug":"/category/users","permalink":"/ru/docs/category/users","navigation":{"previous":{"title":"Subscription","permalink":"/ru/docs/pricing/subscription"},"next":{"title":"Overview","permalink":"/ru/docs/user/overview"}}}')}}]);
